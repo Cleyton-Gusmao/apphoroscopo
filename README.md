@@ -1,0 +1,2 @@
+# AppSignoPitagoras
+Trabalho ADS Pitágoras
